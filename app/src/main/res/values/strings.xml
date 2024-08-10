@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="pearl_girl">Pearl Girl</string>
+    <string name="stary_night">Stary Night</string>
+    <string name="mona_artist">Leonardo Da Vinci  </string>
+    <string name="girl_artist">Johannes Vermeer  </string>
+    <string name="stary_artist">Van Gogh  </string>
+    <string name="mona_year">  (1503)</string>
+    <string name="girl_year">  (1665)</string>
+    <string name="stary_year">  (1030)</string>
+
+</resources>
